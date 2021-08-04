@@ -1,7 +1,7 @@
-## Hello ^_^, welcome to my github!
+## Hello, welcome to my github!
 
 ### About
-Computer Science @ Monash University
+Computer Science @ Monash University<br>
 Penultimate Year
 
 
