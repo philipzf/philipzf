@@ -1,4 +1,4 @@
-## Hello, welcome to my github!
+## Welcome to my GitHub!
 
 ### About
 Computer Science @ Monash University<br>
