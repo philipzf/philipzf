@@ -1,4 +1,7 @@
-### Hi there 👋
+## Welcome to my GitHub
+
+###
+Computer Science @ Monash University
 
 <!--
 **philipzf/philipzf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
