@@ -2,7 +2,7 @@
 
 ### About
 Computer Science @ Monash University<br>
-Penultimate Year
+
 
 
 <!--
